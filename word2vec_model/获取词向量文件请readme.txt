@@ -1,0 +1,1 @@
+文件太大，不便发送，下载地址为：https://blog.csdn.net/LeYOUNGER/article/details/79343404里的Facebook’s fastText embeddings，下载后的词向量文件为cc.en.300.bin
